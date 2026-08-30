@@ -127,7 +127,3 @@ passed directly to `srpc::Client`.
   confirmation value.
 - Debug breakpoints can halt a title. Read the [debugging safety
   notes](docs/debugging.md#safety-rules) before using `srpc::DebugSession`.
-
-## License
-
-SRPC Client is distributed under the terms in [LICENSE.txt](LICENSE.txt).
